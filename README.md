@@ -5,6 +5,8 @@
 
 https://user-images.githubusercontent.com/99519586/170155031-56c9cf1b-21b3-414b-aa15-b0fb540169f0.mp4
 
+https://jhennylouzada.github.io/Shopping-via-Mobile/
+
 # 🚀 Technologies
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
